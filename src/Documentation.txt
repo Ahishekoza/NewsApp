@@ -1,0 +1,19 @@
+Packages Used :
+animatable: npm i react-native-animatable
+heroicons: npm i react-native-heroicons
+reactNative Navigation: https://reactnavigation.org/docs/getting-started/  please refer the docs
+WebView: npm i react-native-webview 
+
+API Reference: https://newsapi.org/
+
+TouchableOpacity = When you want to make any Text or Icon clickable
+FlatList : When you need to display multiple data you use FlatList 
+Image: 
+ActivitIndicator : Displays a circular loading indicator.
+
+
+
+PropsPresentInComponents:
+FlatList: horizontal , showsHorizontalScrollIndicator, data,renderItem ({item,index}) 
+navigation.navigate('',paramKey:') 
+navigation.popToTop()
